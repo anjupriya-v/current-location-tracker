@@ -1,4 +1,18 @@
-# current-location-tracker
+# Current Location Tracker
+
+## Tech Stacks used:
+
+- HTML
+- CSS
+- Javascript
+- Firebase
+- Google Maps API
+
+## Demo Video 👇
+
+https://user-images.githubusercontent.com/84177086/211191693-ea7989d8-e201-4d2a-b2d5-90bb4f59aaa5.mp4
+
+
 
 ## :point_down:Steps to initialize the project:
 
