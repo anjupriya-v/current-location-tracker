@@ -1,13 +1,13 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore, collection, getDocs, addDoc } from "firebase/firestore";
 const firebaseConfig = {
-  apiKey: "replace apikey here",
-  authDomain: "replace authDomain here",
-  projectId: "replace projectId here",
-  storageBucket: "replace storageBucket here",
-  messagingSenderId: "replace messagingSenderId here",
-  appId: "replace appId here",
-  measurementId: "replace easurementId here",
+  apiKey: "API_KEY",
+  authDomain: "AUTH_DOMAIN",
+  projectId: "PROJECT_ID",
+  storageBucket: "STORAGE_BUCKET",
+  messagingSenderId: "MESSAGING_SENDER_ID",
+  appId: "APP_ID",
+  measurementId: "MEASUREMENT_ID",
 };
 
 initializeApp(firebaseConfig);
