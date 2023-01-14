@@ -71,7 +71,7 @@ $ git clone https://github.com/anjupriya-v/current-location-tracker.git
 
 - for restricting the api key, refer this [API restriction](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
-- Paste the api key instead of YOUR_API_KEY. This code is in /src/Script.js
+- Paste the api key instead of YOUR_API_KEY. This code is in `/src/Script.js`
 ![image](https://user-images.githubusercontent.com/84177086/192141144-313800bf-5e96-41cf-a2db-ec1b28f60bcc.png)
  
 ### Open up the terminal 
